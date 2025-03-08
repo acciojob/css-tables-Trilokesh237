@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+#box{
+	border:1px solid #ccc; 
+	padding:0.5rem;
+	border-radius:5px;
+	height:50px;
+	width:200px;
+	font-size:30px;
+	
+}
+.even{
+	background-color:#f2f2f2;
+	border:1px solid #ccc; 
+	padding:0.5rem;
+	border-radius:5px;
+	height:50px;
+	width:200px;
+	font-size:30px
+}
